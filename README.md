@@ -1,4 +1,4 @@
 - 👋 Hi, It's Morteza
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 📫 How to reach me : mortezahp1381@gmail.com
