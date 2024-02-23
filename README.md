@@ -1,4 +1,4 @@
-- 👋 Hi, It's Morteza
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning React
-- 📫 How to reach me : mortezahp1381@gmail.com
+- I'm a front-end developer and a student who's learning and experiencing new stuff. 👨‍🎓
+- I'm currently studying computer software engineering. 💻
+- Passionate as a person and a hungry learner. 🧑‍💻
+- How to reach me : mortezahp1381@gmail.com 📧
